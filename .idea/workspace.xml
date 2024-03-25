@@ -1,25 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bde68fa6-9aa7-401e-8cc0-fb8e7adfff70" name="Changes" comment="" />
+    <list default="true" id="bde68fa6-9aa7-401e-8cc0-fb8e7adfff70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/templates/news/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2e0aLlYQklfEh0jr2C2Qu0yjuEE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -39,5 +82,8 @@
       <updated>1711043895808</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
